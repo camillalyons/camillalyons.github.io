@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: PhD student in bioinformatics.
 email: millalyons@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm a PhD student in mitochondrial genomics field. 
@@ -70,7 +70,7 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
