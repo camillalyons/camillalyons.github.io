@@ -18,7 +18,7 @@ email: millalyons@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm a PhD student in mitochondrial genomics field. 
 github_username: camillalyons
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
