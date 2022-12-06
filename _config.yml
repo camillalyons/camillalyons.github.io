@@ -60,11 +60,14 @@ author:
   bio    : "PhD canditate. Bioinformatics."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/camilla-lyons-55046b1a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/camillalyons"
+    - label: "Resume"
+      icon: "fa-solid fa-file-user"
+      url: "https://camillalyons.github.io/assets/images/CLyons_CV_nov22.pdf"
 
 
 footer:
