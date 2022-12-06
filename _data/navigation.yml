@@ -4,4 +4,4 @@ main:
   - title: "Publications"
     url: /posts/
   - title: "Research"
-    url: /tags/
+    url: "_pages/currentReasearch"
