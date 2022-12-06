@@ -15,5 +15,5 @@ I completed this course of study with maximum score, 100/100 with honours.
 
 Overall, my education prepared me so that I would be able to share my knoledge with my coworkers, learn from them and activelly create a healthy work environment.
 
-After 7 years of studying I have proven to be a good student, but what I need is to become a good scientist. To achieve the independence I am seeking I am currently doing a PhD at the University of Cambridge, MRC-MBU. I am studying how mitochondrial DNA mutations effect biological systems at single cell resolution. My aim is to become the autonomous and confident researcher I have alwayse wanted to be. 
+After 5 years of studying I have proven to be a good student, but what I need is to become a good scientist. To achieve the independence I am seeking I am currently doing a PhD at the University of Cambridge, MRC-MBU. I am studying how mitochondrial DNA mutations effect biological systems at single cell resolution. My aim is to become the autonomous and confident researcher I have alwayse wanted to be. 
 
