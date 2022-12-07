@@ -1,5 +1,5 @@
 ---
-permalink: /assets/images/
+permalink: /posts/
 title: "1 page CV"
 ---
 
