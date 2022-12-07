@@ -21,6 +21,9 @@ github_username: camillalyons
 minimal_mistakes_skin: contrast
 search: true
 
+header:
+  image: /assets/images/CLyons_CV_1page.pdf
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
