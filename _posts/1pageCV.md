@@ -1,5 +1,5 @@
 ---
-permalink: /posts/
+permalink: /
 title: "1 page CV"
 ---
 
