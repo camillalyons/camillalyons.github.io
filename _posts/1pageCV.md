@@ -3,4 +3,8 @@ permalink: /
 title: "1 page CV"
 ---
 
-![/assets/images/CLyons_CV_1page.pdf](https://github.com/camillalyons/camillalyons.github.io/blob/master/_posts/CLyons_CV_1page.pdf)
+
+<figure>
+  <img src="/assets/images/CLyons_CV_1page.pdf" alt="this is a placeholder image">
+  <figcaption>Camilla Lyons: 1 page CV</figcaption>
+</figure>
