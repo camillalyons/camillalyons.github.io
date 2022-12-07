@@ -3,4 +3,4 @@ permalink: /
 title: "1 page CV"
 ---
 
-![1pageCV]("/assets/images/CLyons_CV_1page.pdf")
+![/assets/images/CLyons_CV_1page.pdf](https://github.com/camillalyons/camillalyons.github.io/blob/master/_posts/CLyons_CV_1page.pdf)
