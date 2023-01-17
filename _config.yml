@@ -68,6 +68,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/camillalyons"
+    - label: "Twitter"
+      icon: "fa-brands fa-square-twitter"
+      url: "https://twitter.com/CamillaLyons97"
     - label: "Resume"
       icon: "fa fa-paperclip"
       url: "https://camillalyons.github.io/assets/images/CLyons_CV_nov22.pdf"
@@ -81,6 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/camillalyons"
+    - label: "Twitter"
+      icon: "fa-brands fa-square-twitter"
+      url: "https://twitter.com/CamillaLyons97"
 
 defaults:
   # _posts
